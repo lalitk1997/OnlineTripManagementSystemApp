@@ -7,9 +7,6 @@
 <li>The REST API performs all the fundamental CRUD operations and business logics of any Trip Management System like MakeMyTrip with user authentication at every API endpoint.
 <br>
 
-<!-- ============================================  AUTHOR ======================================================  -->
-
-Author - **[@Kunal Ladhani](https://github.com/Kunal-Ladhani)**
  
 <!-- ============================================  FEATURES ======================================================  -->
 ## Features
